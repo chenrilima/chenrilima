@@ -1,4 +1,4 @@
-### Olá, me Chamo Carlos Henrique
+### Olá, me chamo Carlos Henrique
 
 - 📱 Trabalhando atualmente como Desenvolvedor FullStack Dart/Flutter 
 - 💻 Estudando Dart e Flutter 
