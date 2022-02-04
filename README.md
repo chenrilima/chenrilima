@@ -1,6 +1,6 @@
 ### Olá, me chamo Carlos Henrique
 
-- 📱 Trabalhando atualmente como Líder e Desenvolvedor Flutter 
+- 📱 Líder do Time de Front-end na Houseasy
 - 💻 Estudando Dart e Flutter 
 
 <div>
