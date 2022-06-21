@@ -1,5 +1,3 @@
-### Olá, me chamo Carlos Henrique
-
 - 📱 Líder do Time de Front-end na Houseasy
 - 💻 Estudando Dart e Flutter 
 
