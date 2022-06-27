@@ -1,4 +1,4 @@
-- 📱 Líder do Time de Front-end na Houseasy
+- 📱 Developer
 - 💻 Estudando Dart e Flutter 
 
 <div>
