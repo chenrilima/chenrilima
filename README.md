@@ -1,5 +1,4 @@
-- 📱 Developer
-- 💻 Studying
+- 💻 Developer
 
 <div>
   <a href="https://beacons.ai/chenrilima">
