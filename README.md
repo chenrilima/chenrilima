@@ -1,5 +1,5 @@
 - 📱 Developer
-- 💻 Estudando Dart e Flutter 
+- 💻 Studying
 
 <div>
   <a href="https://beacons.ai/chenrilima">
